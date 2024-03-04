@@ -13,7 +13,7 @@ I'm a Frontend developer.
 
 ## 📊 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api? AyushS-08=AyushS-08)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api? username=AyushS-08)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nwaliaez&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushS-08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
