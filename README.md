@@ -14,6 +14,6 @@ I'm a Frontend developer.
 
 ## 📫 Get in touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ayush-singh-61503a211)
+[![LinkedIn] (https://www.linkedin.com/in/ayush-singh-61503a211)
 
 Feel free to connect and explore my repositories!
