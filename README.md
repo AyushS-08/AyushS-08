@@ -1,7 +1,7 @@
  ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Ayush Singh!
 
 I'm a Frontend developer.
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushs-08" alt="ayushs-08" /></a> </p>
 ## 🌱 About Me
 
 - 🔭 I’m currently working on Smart parking app 
