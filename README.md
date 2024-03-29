@@ -17,8 +17,8 @@ I'm a Frontend developer.
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushS-08)](https://github.com/AyushS-08/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AyushS-08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushS-08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushS-08&show_icons=true&theme=radical&line_height=33&count_private=false">
+### Programing
 ## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-singh-61503a211)
