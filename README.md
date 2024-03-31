@@ -7,7 +7,7 @@ I'm a Frontend developer.
 - 🔭 I’m currently working on Smart parking app 
 - 🌱 I’m currently learning React
 
-<a href="https://Ayush S-08.github.io/portfolio/" target="_blank">Link to my portfolio</a>
+<a href="https://Ayush S-08.github.io/Portfolio/" target="_blank">Link to my portfolio</a>
 
 
 # 💻 Tech Stack:
