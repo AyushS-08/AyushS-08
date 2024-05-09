@@ -5,7 +5,7 @@ I'm a Frontend developer.
 ## 🌱 About Me
 
 - 🔭 I’m currently working on Smart parking app 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN
 
 # 💻 Tech Stack:
 
